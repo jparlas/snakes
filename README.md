@@ -7,7 +7,7 @@ Follow the instructions to set up automatic upload and commit changes to GitHub 
 Create GitHub first
 Go to Pycharm
 Enter details
-VCS - slect checkout version control
+VCS - select checkout version control
 It will download a copy of your project (from GitHub) to your computer.
 
 Once you start adding scripts and commenting code etc... you need to Commit and Push for these changes / documents to be reflected on GitHub
